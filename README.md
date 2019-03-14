@@ -3,8 +3,6 @@ A curated list of amazingly awesome Burp Extensions
 
 # Contributing
 
-[Please refer to the contributing guide for details](CONTRIBUTING.md).
-
 
 # How to Use
 Awesome burp extensions is an amazing list for people who want to spice up their Burp instance with awesome plugins. The best ways to use are:
